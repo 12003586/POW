@@ -1,0 +1,3118 @@
+[ AutoCAD - Wed Jun 02 22:50:05 2021  ]----------------------------------------
+
+Command: 
+Command: 
+Command: 
+Command: _IMPORT 
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command:  
+Enter new value for WSCURRENT <"Drafting & Annotation">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Modeling">: *Cancel*
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: 157
+
+Specify next point or [Arc/Undo]: 
+Specify next point or [Arc/Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: 157
+
+Specify next point or [Arc/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: Regenerating model.
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: 157
+
+Specify next point or [Arc/Undo]: 36
+
+Specify next point or [Arc/Close/Undo]: 151
+
+Specify next point or [Arc/Close/Undo]: 44
+
+Specify next point or [Arc/Close/Undo]: 308
+
+Specify next point or [Arc/Close/Undo]: 80
+
+
+Invalid point.  Solid cannot intersect itself.
+
+Specify next point or [Arc/Close/Undo]: 
+
+Invalid point.  Solid cannot intersect itself.
+
+Specify next point or [Arc/Close/Undo]: close
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point]: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: OPTIONS
+
+Command: 
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point] <32.782>: 
+Command: OPTIONS
+
+Command: 
+Command: TEXTFILL
+
+Enter new value for TEXTFILL <1>: 1
+
+Command: FILLMODE
+
+Enter new value for FILLMODE <1>: 
+
+Command: SHADEMODE
+VSCURRENT
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: 2dwireframe
+
+Command: FILL
+Enter mode [ON/OFF] <ON>: ON
+
+Command: 
+Command: FILL
+Enter mode [ON/OFF] <ON>: ON
+
+Command: 
+Command: 
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point] <42.149>:  
+Resuming BOX command.
+
+Specify height or [2Point] <42.149>:  
+Resuming BOX command.
+
+Specify height or [2Point] <42.149>:  
+Resuming BOX command.
+
+Specify height or [2Point] <42.149>: *Cancel*
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 308
+
+Specify height or [2Point] <42.149>: 80
+
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 308
+
+Specify height or [2Point] <80.000>: 80
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 308
+
+Specify height or [2Point] <80.000>: *Cancel*
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 80
+
+Specify height or [2Point] <80.000>: 30
+
+Command:  
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command:  
+Command: 
+Command: 
+Specify point location or [Base point/Undo/eXit]: 5
+
+Command: 
+Specify point location or [Base point/Undo/eXit]: 5
+
+Command: _u Grip Edit 
+Command: _u Grip Edit 
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _FILLETEDGE 
+Radius = 1.000
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]:  
+1 edge(s) selected for fillet.
+
+Press Enter to accept the fillet or [Radius]:*Cancel*
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: 187
+
+Specify next point or [Arc/Undo]: 36
+
+Specify next point or [Arc/Close/Undo]:  
+Resuming POLYSOLID command.
+
+Specify next point or [Arc/Close/Undo]: 151
+
+Specify next point or [Arc/Close/Undo]: 44
+
+Specify next point or [Arc/Close/Undo]: 308
+
+Specify next point or [Arc/Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _Polysolid Height = 4.000, Width = 0.250, Justification = Center
+Specify start point or [Object/Height/Width/Justify] <Object>: 
+Specify next point or [Arc/Undo]: 157
+
+Specify next point or [Arc/Undo]: 36
+
+Specify next point or [Arc/Close/Undo]: 151
+
+Specify next point or [Arc/Close/Undo]: 44
+
+Specify next point or [Arc/Close/Undo]: 308
+
+Specify next point or [Arc/Close/Undo]: close
+
+Command: 
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]:  
+Resuming BOX command.
+
+Specify first corner or [Center]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: BOX
+
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: _slice 
+Select objects to slice: 1 found
+
+Select objects to slice: *Cancel*
+
+Command: 
+Command: FILL
+Enter mode [ON/OFF] <ON>: ON
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 157
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 36
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 151
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 44
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 308
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: close
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <30.000>: 30
+
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 385.077
+
+Point or option keyword required.
+
+Specify base point or [Displacement/mOde] <Displacement>: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command: 
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command:  
+Command: 
+Command:  5
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _u '.ACGZDRAGACTION 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+Command:  *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 1 found (1 duplicate), 1 total
+
+Select objects to extrude or [MOde]: *Cancel*
+*Cancel*
+
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 1 found, 2 total
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 1 found, 2 total
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  *Cancel*
+
+Command:  
+Command: 
+Command:  *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command:  
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u Grip Edit 
+Command: 
+Command:  *Cancel*
+
+Command: PR
+PROPERTIES 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _union 
+Select objects: *Cancel*
+
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _u MOVE 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: *Cancel*
+
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects:  No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: *Cancel*
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: Specify opposite corner: *Cancel*
+0 found
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: MOVE
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: substract
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+Command:  *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Enter new value for WSCURRENT <"3D Modeling">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Basics">: *Cancel*
+
+Command: 
+Command:  *Cancel*
+
+Command:  
+Enter new value for WSCURRENT <"3D Basics">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Modeling">: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: mp
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle/SUbobject/Object
+
+Select objects to extrude or [MOde]: mo
+Closed profiles creation mode [SOlid/SUrface] <Solid>: SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 5
+1 found (1 duplicate), 1 total
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _union 
+Select objects: *Cancel*
+
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: *Cancel*
+
+Command: _u SUBTRACT 
+Command: _u GROUP 
+Command: _u SUBTRACT GROUP 
+Command: _u GROUP UNION 
+Command: _u QUICKPROPERTIES GROUP 
+Command: _u Grip Edit 
+Command:  
+Command: 
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: _u Grip Edit 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: _u Grip Edit 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: -5
+
+Command: *Cancel*
+
+Command: _u Grip Edit 
+Command: 
+Command: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: _u Grip Edit 
+Command: _u '.VIEWCUBEACTION 
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: _u EXTRUDE GROUP 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u Grip Edit 
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM INTELLIZOOM '.3DPAN2 INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u COPY GROUP 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM 
+Command: _u ERASE 
+Command: _u '.VIEWCUBEACTION 
+Command:  
+Command: 
+Command: 
+Command: _rotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0.00
+
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: undo
+Face selection has been completely undone.
+
+Remove faces or [Undo/Add/ALL]: add
+
+Select faces or [Undo/Remove/ALL]: 
+Select faces or [Undo/Remove/ALL]: all
+
+Select faces or [Undo/Remove/ALL]:  
+Enter the shell offset distance:  Specify second point: 25
+
+Modeling Operation Error:
+Error Code Number is 108020
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 162
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 41
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 156
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 49
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 312
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 162
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 41
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 156
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 49
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 313
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 162
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 41
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 156
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]:  
+Resuming PLINE command.
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 49
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 313
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 162
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Enter new value for WSCURRENT <"3D Modeling">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"Drafting & Annotation">: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 157
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 36
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 151
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 44
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 308
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: close
+
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify through point or [Exit/Multiple/Undo] <Exit>: 5
+
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Enter new value for WSCURRENT <"Drafting & Annotation">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Modeling">: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]:  
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <30.000>: 30
+
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: all
+
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]:  
+Enter the shell offset distance: 5
+
+Modeling Operation Error:
+Error Code Number is 108027
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]:  
+Enter the shell offset distance: 5
+
+Solid validation started.
+Solid validation completed.
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Enter the shell offset distance: 5
+
+Modeling Operation Error:
+Error Code Number is 108026
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: *Cancel*
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 2 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]:  
+Enter the shell offset distance: 5
+
+Modeling Operation Error:
+Error Code Number is 108026
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: shell
+
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Enter the shell offset distance: 5
+
+Modeling Operation Error:
+Error Code Number is 108026
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: P
+
+Select a 3D solid: 
+The selected solid does not have multiple lumps.
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 2 faces found, 2 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 0 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 
+
+Enter the shell offset distance: -5
+
+Modeling Operation Error:
+Error Code Number is 108026
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 2 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 0 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 0 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 2 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]:  
+Resuming SOLIDEDIT command.
+
+Remove faces or [Undo/Add/ALL]: 2 faces found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 
+
+Enter the shell offset distance: -5
+
+Modeling Operation Error:
+Error Code Number is 108026
+
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: S
+
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command: 
+Command: PR
+PROPERTIES 
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: _u DIM GROUP 
+Command: _u INTELLIZOOM GROUP 
+Command: _u 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: _u DIM GROUP 
+Command: _u DIM GROUP 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: _u Grip Edit 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects:  
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command:  
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  5
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: _u Grip Edit 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: -5
+
+Command: _u Grip Edit 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 35
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: substract
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: *Cancel*
+
+Command:  
+Command: _u '.VIEWCUBEACTION GROUP SUBTRACT 
+Command: _u GROUP SUBTRACT 
+Command: _u '.3DPAN2 
+Command: _u SUBTRACT GROUP 
+Command: _u SUBTRACT GROUP 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 0
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: mo
+Closed profiles creation mode [SOlid/SUrface] <Solid>: SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]:  
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]:  Nothing selected.
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]:  Nothing selected.
+
+Command:  EXTRUDE
+
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects:  
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: 
+Specify point on the XY plane or <accept>: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: _u 
+Command: _u '.ACGZDRAGACTION 
+Command: 
+Command:  
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: _u Grip Edit 
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: MIRROR
+1 found
+Specify first point of mirror line:  
+Resuming MIRROR command.
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: N
+
+Command: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:*Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+Command: _.erase 2 found
+
+Command: _u ERASE 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]: 
+Resuming DIM command.
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]: 
+Resuming DIM command.
+
+Command: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copyclip 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _pasteclip Duplicate definition of block _DotSmall  ignored.
+Duplicate definition of block _ArchTick  ignored.
+Substituting [simplex.shx] for [Freehand575 BT].
+Specify insertion point: *Cancel*
+
+Command: 
+Command: _pasteclip Specify insertion point: *Cancel*
+
+Command: 
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command: 
+Command: 
+Command: 
+Command: _copyclip 1 found
+
+Command: *Cancel*
+
+Command: 
+Command: copp
+Unknown command "COPP".  Press F1 for help.
+
+Command: *Cancel*
+
+Command: COPY
+
+Select objects: 1 found
+
+Select objects:  
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Checking 561 intersections... 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command: 
+Command: MIRROR
+1 found
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: Y
+
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command: _u Grip Edit 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects:  
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: 
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command:  
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 5
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 35
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: subtract
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command:  
+Command: 
+Command: ROTATE
+
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0.00
+1 found
+
+Specify base point: 
+Specify rotation angle or [Copy/Reference] <0.00>: *Cancel*
+
+Command: AIDIMFLIPARROW
+
+Select objects: 1 found
+
+Select objects:  
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: *Cancel*
+
+Command: SURFTRIM
+
+Extend surfaces = Yes, Projection = Automatic 
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]:  
+Not a valid object type.
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]:  
+Not a valid object type.
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: *Cancel*
+
+Command: *Cancel*
+
+Command: SURFTRIM
+
+Extend surfaces = Yes, Projection = Automatic 
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found, 2 total
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: ex
+
+Extend trimming geometry [Yes/No] <Yes>: Y
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: ex
+
+Extend trimming geometry [Yes/No] <Yes>: Y
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 
+
+Not a valid object type.
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: pr
+1 found
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 1 found (1 duplicate), 1 total
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: 
+
+Not a valid object type.
+
+Select surfaces or regions to trim or [Extend/PROjection direction]: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: *Cancel*
+
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 
+Command: 
+SUBTRACT
+Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: SUBTRACT
+Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects:  No solids, surfaces, or regions selected.
+
+Command: 
+Command: SU
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  No solids, surfaces, or regions selected.
+
+Command: 
+Command: *Cancel*
+
+Command:  SUBTRACT
+Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 
+
+Command: 
+Command: *Cancel*
+
+Command: SU
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: *Cancel*
+
+Command: SU
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects:  No solids, surfaces, or regions selected.
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _shell 
+Select a 3D solid: 
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 
+Remove faces or [Undo/Add/ALL]: 
+Please select an edge on the originally selected solid.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: 1 face found, 1 removed.
+
+Remove faces or [Undo/Add/ALL]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+Command:  
+Command: 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Automatic save to C:\Users\bomen\AppData\Local\Temp\Behuizing_1_10530_6ad20b56.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects:  Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
